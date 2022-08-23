@@ -6,6 +6,7 @@
 ![Django](/svg/django.svg)
 ![Git](/svg/github-icon.svg)
 ![PostgreSQL](/svg/postgresql.svg)
+![SqLite3](/svg/sqlite.svg)
 
 ## МОИ КОНТАКТЫ
 [<img src="./svg/telegram.svg">](https://t.me/EnProPlant)
